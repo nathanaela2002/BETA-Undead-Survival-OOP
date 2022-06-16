@@ -21,6 +21,7 @@ public class QueueExample {
         System.out.println("used item-"
                            + removedele);
       //gonan throw a if statemtn to when head of queue is removed we gain power or whatever the item is ill find this
+     //throw a loop for a ceratin amount of time to wait like lets say 10 -30 seconds per item depending on what it is before it is used 
  
         System.out.println(q);
  
